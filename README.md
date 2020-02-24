@@ -1,5 +1,5 @@
 # profile
-Here's a brief neet-to-knows about myself:)
+Here's a brief need-to-knows about myself:)
 
 
 ## Summation
@@ -7,14 +7,18 @@ Here's a brief neet-to-knows about myself:)
 
 
 ## Technology Interests
-
+- TBW
 
 
 ## Job Profiles
-- Xx
+- TBW
 
 
 ## Previous Works
 - KYC Bot
 - Tsumikiruka ('Lord of the Load')
 (Yes it's a pun)
+
+## Coding Experiences
+- VueJS: Jan. 2020 ~
+- Ruby (Ruby on Rails): Jul. 2017 ~
